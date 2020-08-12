@@ -1,5 +1,5 @@
 # TEN7 Contractor Quick Start Guide
-Version 1.0.0, published 08.12.2020
+Version 1.0.1, published 08.12.2020
 
 ## Welcome
 
@@ -34,18 +34,18 @@ Please know that — depending on your role — someone will talk you through ou
 
 *   Do I get any time off? When is TEN7 closed?
     *   As a contractor, you won’t get any paid time off. If you need to take time off, we ask that you give us as much notice as possible, so we can plan accordingly. TEN7 is closed every year on New Year’s Eve + Day, Memorial Day, Independence Day, Labor Day, Thanksgiving + Black Friday, and Christmas Eve + Day.
-    *   Do I get any TEN7 issued hardware or software?
-        *   Nope! ← simplest answer 
-    *   Do you have standups? Am I supposed to attend?
-        *   Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too — as long as you’re clear on your priorities each day. 
-    *   Does TEN7 have a Brand and House Style Guide? 
-        *   Why yes, we do! You can find it [here](https://teamten7.atlassian.net/wiki/spaces/TI/pages/36372483/TEN7+House+Style+and+Branding+Guide). 
-    *   What is TEN7’s contact information?
-        *   Call us: (612) 868-7884
-        *   Email us: [hi@ten7.com](mailto:hi@ten7.com)
-        *   Send us a postcard: TEN7, 9450 SW Gemini Dr #85756, Beaverton OR 97008-7105
-        *   Visit our website: [https://ten7.com/](https://ten7.com/)
-        *   Follow us on Twitter: [https://twitter.com/TEN7](https://twitter.com/TEN7)
+*   Do I get any TEN7 issued hardware or software?
+    *   Nope! ← simplest answer 
+*   Do you have standups? Am I supposed to attend?
+    *   Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too — as long as you’re clear on your priorities each day. 
+*   Does TEN7 have a Brand and House Style Guide? 
+    *   Why yes, we do! You can find it [here](https://teamten7.atlassian.net/wiki/spaces/TI/pages/36372483/TEN7+House+Style+and+Branding+Guide). 
+*   What is TEN7’s contact information?
+    *   Call us: (612) 868-7884
+    *   Email us: [hi@ten7.com](mailto:hi@ten7.com)
+    *   Send us a postcard: TEN7, 9450 SW Gemini Dr #85756, Beaverton OR 97008-7105
+    *   Visit our website: [https://ten7.com/](https://ten7.com/)
+    *   Follow us on Twitter: [https://twitter.com/TEN7](https://twitter.com/TEN7)
 
 
 ### Process Questions   
