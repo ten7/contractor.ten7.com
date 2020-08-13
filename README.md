@@ -84,4 +84,4 @@ Please know that — depending on your role — someone will talk you through ou
 
 ## Good luck!
 
-We wish you the best of luck in your first hours and days with us at TEN7. Know that we’re glad to have you on board, and that we look forward to getting to know you better. Still have questions? Feel free to reach out to [Dani Adelman](mailto:dani@ten7.com), our Director of Operations, or directly to [Ivan Stegic](mailto:ivan@ten7.com), our CEO.
+We wish you the best of luck in your first hours and days with us at TEN7. Know that we’re glad to have you on board, and that we look forward to getting to know you better. Still have questions? Feel free to reach out to [Dani Adelman](https://ten7.slack.com/team/UKEQ8DH9T), our Director of Operations, or directly to [Ivan Stegic](https://ten7.slack.com/team/U02FLV1A0), our CEO.
