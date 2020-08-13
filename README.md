@@ -35,7 +35,9 @@ Please know that — depending on your role — someone will talk you through ou
 *   Do I get any time off? When is TEN7 closed?
     *   As a contractor, you won’t get any paid time off. If you need to take time off, we ask that you give us as much notice as possible, so we can plan accordingly. TEN7 is closed every year on New Year’s Eve + Day, Memorial Day, Independence Day, Labor Day, Thanksgiving + Black Friday, and Christmas Eve + Day.
 *   Do I get any TEN7 issued hardware or software?
-    *   Nope! ← simplest answer 
+    *   Nope! ← simplest answer
+*   Do I get any special discounts anywhere?
+    *   Yes, you have access to discounts from the Apple Store through TEN7, contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) or [@ivan](https://ten7.slack.com/team/U02FLV1A0) in Slack to get signed up.
 *   Do you have standups? Am I supposed to attend?
     *   Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too — as long as you’re clear on your priorities each day. 
 *   Does TEN7 have a Brand and House Style Guide? 
