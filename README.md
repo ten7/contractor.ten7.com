@@ -49,15 +49,18 @@ Please know that — depending on your role — someone will talk you through ou
     *   Visit our website: [https://ten7.com/](https://ten7.com/)
     *   Follow us on Twitter: [https://twitter.com/TEN7](https://twitter.com/TEN7)
 
-
-### Process Questions   
-
+### Time Tracking and Payment Questions
 
 
 *   Where do I track my time? How often should I enter it? How do I submit my timesheet? How often? What are the different kinds of time I should log?
     *   We use the Harvest app to track all time. Please track your time in real-time, as you’re working on projects. You can do this via the Harvest integration in Jira, as you start on a ticket. At the end of each week, we ask that you please submit your timesheet. In fact, we can’t pay you until you do. If you have questions about which project or category you should log your time to, feel free to ask! (Dani is the best person to ask!)
 *   When do I get paid? 
     *   The simple answer: when you invoice. Send your invoice by email to [billing@ten7.com](mailto:billing@ten7.com) -- please do so at least monthly, but you can use whatever cadence works for you: semi-monthly, bi-weekly, weekly…just invoice us. Don’t forget, you’re a 1099 contractor, so we don’t withhold any taxes; you’ll need to do that on your own and pay for those taxes yourself. Payment is made via direct deposit through Gusto, and you’ll typically see that money in your bank account within five business days from when you invoice.
+
+
+### Process Questions   
+
+
 *   How should I use my TEN7 calendar? How should I indicate times I am busy for others to see?
     *   We ask that you somehow connect your personal calendar with your TEN7 calendar. However you do this is up to you! You can either share your personal calendar but keep the events private, or you can manually add your personal calendar events to your TEN7 calendar. Our goal is to make sure we have your availability handy for meetings and project needs.
 *   What communication tools do you use?
