@@ -65,7 +65,7 @@ You may use whatever cadence works best for you to invoice: semi-monthly, bi-wee
 - **How do I invoice?**  
 Email your invoice to [billing@ten7.com](mailto:billing@ten7.com). No need to itemize things, a total is fine. We rely on approved (and locked) Harvest timesheets for details.
 - **How and when do I get paid?**  
-Invoices are usually paid on receipt via direct deposit through Gusto. You'll see payment in your bank account within five business days. Don’t forget, you’re a 1099 contractor, so we withhold any taxes. You're responsible for all taxes.
+Invoices are usually paid on receipt via direct deposit through Gusto. You'll see payment in your bank account within five business days. Don’t forget, you’re a 1099 contractor, so we **don't** withhold any taxes. You're responsible for applicable taxes in your jurisdiction.
 
 
 ### Process Questions   
