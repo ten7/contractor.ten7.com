@@ -41,7 +41,9 @@ Yes, you have access to discounts from the Apple Store through TEN7, contact [@d
 - **Do you have standups? Am I supposed to attend?**  
 Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too — as long as you’re clear on your priorities each day. 
 - **Does TEN7 have a Brand and House Style Guide?**  
-Why yes, we do! You can find it [here](https://teamten7.atlassian.net/wiki/spaces/TI/pages/36372483/TEN7+House+Style+and+Branding+Guide). 
+Why yes, we do! You can find it [here](https://teamten7.atlassian.net/wiki/spaces/TI/pages/36372483/TEN7+House+Style+and+Branding+Guide).
+- **What is the correct way to write our company name?**  
+The rule of thumb is that "TEN7" should always be written in CAPS with NO space between the "TEN" and the number "7". Don’t use lower case, and don’t add spaces. The "TEN7" wordmark is geared to resemble the logo as closely as possible.
 - **What is TEN7’s contact information?**
     *   Call us: (612) 868-7884
     *   Email us: [hi@ten7.com](mailto:hi@ten7.com)
