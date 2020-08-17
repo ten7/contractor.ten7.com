@@ -1,5 +1,5 @@
 # TEN7 Contractor Quick Start Guide
-Version 1.0.1, published 08.12.2020
+Version 1.1.0, published 08.17.2020
 
 ## Welcome
 
