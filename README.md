@@ -97,6 +97,11 @@ We use the [git flow](https://nvie.com/posts/a-successful-git-branching-model/) 
 Getting your code live is usually a mix of finishing a feature branch, pushing the code into the develop branch, and then doing a release to the main branch. You probably won’t be responsible for doing releases to main.
 
 
+## Still have questions?
+
+If this page didn't answer a particular question, please [create a new issue](https://github.com/ten7/contractor.ten7.com/issues/new) in Github and tell us! We'd love to add it to the list so others can benefit. 
+
+
 ## Good luck!
 
 We wish you the best of luck in your first hours and days with us at TEN7. Know that we’re glad to have you on board, and that we look forward to getting to know you better. Still have questions? Feel free to reach out to [Dani Adelman](https://ten7.slack.com/team/UKEQ8DH9T), our Director of Operations, or directly to [Ivan Stegic](https://ten7.slack.com/team/U02FLV1A0), our CEO.
