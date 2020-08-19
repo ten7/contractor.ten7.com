@@ -12,8 +12,7 @@ You can learn more about who we are and what we do  [here](https://handbook.ten7
 
 
 
-*   First thing’s first: we’ll need to run a Goodhire background check. We’ll need your full name and email address to get started, and you’ll fill out the rest. You'll be asked to enter our official office location, so please use: Minneapolis, MN, 55403, Hennepin County.f 
-If all is clear 🤞, we will ask you to...
+*   First thing’s first: we’ll need to run a Goodhire background check. We’ll need your full name and email address to get started, and you’ll fill out the rest. You'll be asked to enter our official office location, so please use: Minneapolis, MN, 55403, Hennepin County. If all is clear 🤞, we will ask you to...
     *   Fill out a TEN7 independent contractor agreement and a W9 using Hellosign
     *   Set up Gusto, so we can pay you
     *   Fill out the Know Your Team ice breaker -- the team will learn about you, and vice versa
