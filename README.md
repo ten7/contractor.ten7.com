@@ -44,6 +44,8 @@ Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s 
 Why yes, we do! You can find it [here](https://teamten7.atlassian.net/wiki/spaces/TI/pages/36372483/TEN7+House+Style+and+Branding+Guide).
 - **What is the correct way to write our company name?**  
 The rule of thumb is that "TEN7" should always be written in CAPS with NO space between the "TEN" and the number "7". Don’t use lower case, and don’t add spaces. The "TEN7" wordmark is geared to resemble the logo as closely as possible.
+- **What the heck is Pets of TEN7?**
+We're glad you asked! Pets of TEN7 is a special little webpage where you can find pictures of TEN7 employee pets. We have lots of animal friends, and wanted a place to showcase their cuteness. If you have an animal friend, be sure to let us know, and send us a pic. In the meantime, you can admire all the cuteness [here](https://pets.ten7.com/).
 - **What is TEN7’s contact information?**
     *   Call us: (612) 868-7884
     *   Email us: [hi@ten7.com](mailto:hi@ten7.com)
