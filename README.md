@@ -1,5 +1,5 @@
 # TEN7 Contractor Quick Start Guide
-Version 1.1.4, published 10.08.2020
+Version 1.1.5, published 11.04.2020
 
 ## Welcome
 
@@ -39,7 +39,7 @@ Nope! ← simplest answer
 - **Do I get any special discounts anywhere?**  
 Yes, you have access to discounts from the Apple Store through TEN7, contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) or [@ivan](https://ten7.slack.com/team/U02FLV1A0) in Slack to get signed up.
 - **Do you have standups? Am I supposed to attend?**  
-Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too — as long as you’re clear on your priorities each day. 
+Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too. Either way, we ask that you please post your priorities each day in our #standup Slack channel.
 - **Does TEN7 have a Brand and House Style Guide?**  
 Why yes, we do! You can find it [here](https://teamten7.atlassian.net/wiki/spaces/TI/pages/36372483/TEN7+House+Style+and+Branding+Guide).
 - **What is the correct way to write our company name?**  
@@ -60,10 +60,12 @@ We're glad you asked! Pets of TEN7 is a special little webpage where you can fin
 We use the Harvest app to track all time. Please track your time in real time, as you’re working on projects. Harvest has both desktop and mobile apps, and timers can also be started from tickets in Jira (for devs) as well as tasks in Asana (non-devs).
 - **How do I know which projects or tasks I should track time to?**  
 Your team lead will let you know which projects, tasks or categories you should be tracking time to. If you have questions about logging your time, ask Dani!
+- **Will TEN7 cover my onboarding time?**  
+We know that when we start working together it'll take you a little time to get your machine set up with the various tools we use and get up to speed on all our    processes. TEN7 is happy to pay you for up to a full day (8 hours) of ramp-up time that you can log under the "Company Operations" project in Harvest.
 - **How often do I submit my timesheet?**  
 Please submit your timesheet at the end of each week. We can’t pay you unless you do. Your timesheet will be reviewed first thing on Monday morning, at which point that week's time is approved and can be invoiced.
 - **How often should I invoice?**  
-You may use whatever cadence works best for you to invoice: semi-monthly, bi-weekly, weekly... just invoice us. You should invoice __at least__ monthly. Please make sure that your timesheets are approved __before__ invoicing us.
+You may use whatever cadence works best for you to invoice: semi-monthly, bi-weekly, weekly...just invoice us. You should invoice __at least__ monthly. Please make sure that your timesheets are approved __before__ invoicing us.
 - **How do I invoice?**  
 Email your invoice to [billing@ten7.com](mailto:billing@ten7.com). No need to itemize things, a total is fine. We rely on approved (and locked) Harvest timesheets for details. Please include a copy of your approved Harvest timesheet as a PDF attachment for the time period you are invoicing.
 - **How and when do I get paid?**  
