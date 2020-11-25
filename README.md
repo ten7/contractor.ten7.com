@@ -1,5 +1,5 @@
 # TEN7 Contractor Quick Start Guide
-Version 1.1.5, published 11.04.2020
+Version 1.1.6, published 11.25.2020
 
 ## Welcome
 
@@ -67,7 +67,7 @@ Please submit your timesheet at the end of each week. We can’t pay you unless 
 - **How often should I invoice?**  
 You may use whatever cadence works best for you to invoice: semi-monthly, bi-weekly, weekly...just invoice us. You should invoice __at least__ monthly. Please make sure that your timesheets are approved __before__ invoicing us.
 - **How do I invoice?**  
-Email your invoice to [billing@ten7.com](mailto:billing@ten7.com). No need to itemize things, a total is fine. We rely on approved (and locked) Harvest timesheets for details. Please include a copy of your approved Harvest timesheet as a PDF attachment for the time period you are invoicing.
+Email your invoice to [billing@ten7.com](mailto:billing@ten7.com). No need to itemize things, a total is fine. We rely on approved (and locked) Harvest timesheets for details. Make sure each invoice only contains time spent during one month. If you are invoicing for work done in multiple months, please submit them as separate invoices (one for each month's work). Please include a copy of your approved Harvest timesheet as a PDF attachment for the time period you are invoicing.
 - **How and when do I get paid?**  
 Invoices are usually paid on receipt via direct deposit through Gusto. You'll see payment in your bank account within five business days. Don’t forget, you’re a 1099 contractor, so we **don't** withhold any taxes. You're responsible for applicable taxes in your jurisdiction.
 
@@ -78,7 +78,9 @@ Invoices are usually paid on receipt via direct deposit through Gusto. You'll se
 - **How should I use my TEN7 calendar? How should I indicate times I am busy for others to see?**  
 We ask that you somehow connect your personal calendar with your TEN7 calendar. However you do this is up to you! You can either share your personal calendar but keep the events private, or you can manually add your personal calendar events to your TEN7 calendar. Our goal is to make sure we have your availability handy for meetings and project needs.
 - **What communication tools do you use?**  
-Slack is our primary tool for communicating with each other (and sometimes with clients). We expect that you’ll have it open throughout the day and set up your notifications, so we can resolve questions and conversations as quickly as possible. Sometimes it’s more efficient to have an impromptu Zoom call with each other, so we’ll do that.  We use email sparingly, and mostly with clients. 
+Slack is our primary tool for communicating with each other (and sometimes with clients). We expect that you’ll have it open throughout the day and set up your notifications, so we can resolve questions and conversations as quickly as possible. Sometimes it’s more efficient to have an impromptu Zoom call with each other, so we’ll do that.  We use email sparingly, and mostly with clients.
+- **What other tools do you use?**  
+We wrote a blog post on TEN7's tech stack, including a handy visual of our tools. You can [check it out here.](https://ten7.com/blog/post/ten7s-tech-stack)
 - **How does `#attendance` work? What are my responsibilities?**  
 We use the [#attendance](https://ten7.slack.com/archives/C1LKZENTF) Slack channel kinda like we’d say “hello” and “goodbye” as we come and go from a “regular” office. We ask that you let everyone know when you start work for the day, when you’ll be away from your computer, and when you’re done for the day. In addition to the channel, we update our Slack status regularly to indicate where we’re at: out, focused, etc. We’ve standardized on five, which we chose specifically to avoid any issues with color-blindness or shape distinguishing. These five are used almost universally by everyone, but feel free to be creative if you are doing something special.
 - **What hours should I keep?**  
