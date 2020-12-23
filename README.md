@@ -1,5 +1,5 @@
 # TEN7 Contractor Quick Start Guide
-Version 1.1.6, published 11.25.2020
+Version 1.1.7, published 12.23.2020
 
 ## Welcome
 
@@ -101,11 +101,6 @@ Most of the code you will work with will be in our own Gitlab server: gitlab.ten
 We use the [git flow](https://nvie.com/posts/a-successful-git-branching-model/) branching model, and use feature branches extensively. Your code will always be reviewed by another set of eyes before it goes live. And we expect that you will spend time reviewing code from others as well. This is how we all learn!
 - **How do I get my code live?**  
 Getting your code live is usually a mix of finishing a feature branch, pushing the code into the develop branch, and then doing a release to the main branch. You probably won’t be responsible for doing releases to main.
-
-
-## Still have questions?
-
-If this page didn't answer a particular question, please [create a new issue](https://github.com/ten7/contractor.ten7.com/issues/new) in Github and tell us! We'd love to add it to the list so others can benefit. 
 
 
 ## Good luck!
