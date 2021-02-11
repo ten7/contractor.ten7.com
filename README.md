@@ -86,7 +86,7 @@ We use the [#attendance](https://ten7.slack.com/archives/C1LKZENTF) Slack channe
 - **What hours should I keep?**  
 This is up to you! But we prefer that you’re somewhat reachable during regular business hours which are Monday to Friday, 9am to 5pm CST. 
 - **Do I need to use my TEN7 email address?**  
-Yes! Please do not forward your email from your TEN7 account to any other email address. Always do TEN7’s business with TEN7’s email address. (You probably won’t send or receive a great deal of email, we’re mostly in Slack all day long.)
+Yes! Please do not forward your email from your TEN7 account to any other email address. Always do TEN7’s business with TEN7’s email address. (You probably won’t send or receive a great deal of email, we’re mostly in Slack all day long.) Be sure to add your Google profile photo when you first log in.
 - **What are the expectations around using Slack with clients?**  
 All client-facing channels include `#t7care_` , so please be mindful of what you post in those channels. Although, don’t be too wary; we trust you to post in those channels when you need something from a client. 
 - **What kind of project or ticket management system do you use?**  
