@@ -52,6 +52,9 @@ We're glad you asked! Pets of TEN7 is a special little webpage where you can fin
     *   Send us a postcard: TEN7, 9450 SW Gemini Dr #85756, Beaverton OR 97008-7105
     *   Visit our website: [https://ten7.com/](https://ten7.com/)
     *   Follow us on Twitter: [https://twitter.com/TEN7](https://twitter.com/TEN7)
+    *   Finally, please feel free to reach out to our CEO, Ivan Stegic, as much as you need via Slack, email, or even with a phone call! This could be a random             call to say, “Hi!” or one to tell him it’s crazy for you, and that you need help. You name it, he’s available whenever you are. His mobile number is on his         [Slack profile.](https://ten7.slack.com/team/U02FLV1A0)
+
+
 
 ### Time Tracking and Payment Questions
 
