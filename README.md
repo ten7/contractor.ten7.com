@@ -107,4 +107,6 @@ Getting your code live is usually a mix of finishing a feature branch, pushing t
 
 ## Good luck!
 
-We wish you the best of luck in your first hours and days with us at TEN7. Know that we’re glad to have you on board, and that we look forward to getting to know you better. Still have questions? Feel free to reach out to [Dani Adelman](https://ten7.slack.com/team/UKEQ8DH9T), our Director of Operations, or directly to [Ivan Stegic](https://ten7.slack.com/team/U02FLV1A0), our CEO.
+We wish you the best of luck in your first hours and days with us at TEN7. Know that we’re glad to have you on board, and that we look forward to getting to know you better. Still have questions? Feel free to reach out to [Dani Adelman](https://ten7.slack.com/team/UKEQ8DH9T), our Director of Operations. 
+
+You can also contact our CEO, Ivan Stegic, directly as much as you need via Slack, email, or even with a phone call! This could be a random call to say, “Hi!” or to tell him that things are bonkers, and you need help. You name it, he’s available whenever you are. His mobile number is on his [Slack profile.](https://ten7.slack.com/team/U02FLV1A0)
