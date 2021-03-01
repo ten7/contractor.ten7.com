@@ -16,7 +16,7 @@ You can learn more about who we are and what we do  [here](https://handbook.ten7
     *   Fill out a TEN7 independent contractor agreement and a W9 using Hellosign
     *   Set up Gusto, so we can pay you
     *   Fill out the Know Your Team ice breaker -- the team will learn about you, and vice versa
-    *   Log in to Slack, add a profile photo for yourself and say hi! 👋🏻
+    *   Log in to Slack, add your profile photo so we know who you are, and say hi! 👋🏻
 *   In the meantime, we will get you set up with... 
     *   An employee number
     *   Your new ten7.com email address 
@@ -53,6 +53,8 @@ We're glad you asked! Pets of TEN7 is a special little webpage where you can fin
     *   Visit our website: [https://ten7.com/](https://ten7.com/)
     *   Follow us on Twitter: [https://twitter.com/TEN7](https://twitter.com/TEN7)
 
+
+
 ### Time Tracking and Payment Questions
 
 
@@ -86,7 +88,7 @@ We use the [#attendance](https://ten7.slack.com/archives/C1LKZENTF) Slack channe
 - **What hours should I keep?**  
 This is up to you! But we prefer that you’re somewhat reachable during regular business hours which are Monday to Friday, 9am to 5pm CST. 
 - **Do I need to use my TEN7 email address?**  
-Yes! Please do not forward your email from your TEN7 account to any other email address. Always do TEN7’s business with TEN7’s email address. (You probably won’t send or receive a great deal of email, we’re mostly in Slack all day long.)
+Yes! Please do not forward your email from your TEN7 account to any other email address. Always do TEN7’s business with TEN7’s email address. (You probably won’t send or receive a great deal of email, we’re mostly in Slack all day long.) Be sure to add your Google profile photo when you first log in.
 - **What are the expectations around using Slack with clients?**  
 All client-facing channels include `#t7care_` , so please be mindful of what you post in those channels. Although, don’t be too wary; we trust you to post in those channels when you need something from a client. 
 - **What kind of project or ticket management system do you use?**  
