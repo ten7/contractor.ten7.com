@@ -1,5 +1,5 @@
 # TEN7 Contractor Quick Start Guide
-Version 1.1.11, published 03.02.2021
+Version 1.1.12, published 03.30.2021
 
 ## Welcome
 
@@ -64,6 +64,8 @@ We use the Harvest app to track all time. Please track your time in real time, a
 Your team lead will let you know which projects, tasks or categories you should be tracking time to. If you have questions about logging your time, ask Dani!
 - **Will TEN7 cover my onboarding time?**  
 We know that when we start working together it'll take you a little time to get your machine set up with the various tools we use and get up to speed on all our    processes. TEN7 is happy to pay you for up to a full day (8 hours) of ramp-up time that you can log under the "Company Operations" project in Harvest.
+- **Will TEN7 cover the time I need to get vaccinated for COVID?** 
+We're so glad you asked! When you're able to get vaccinated, please take the time you need to do so. TEN7 will pay for up to 2 hours of your time to do this. Please make sure to log your time in Harvest under TEN7 Time Off 2021 > Vaccinations. In addition, TEN7 will pay for your transportation costs to and from getting your vaccination: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
 - **How often do I submit my timesheet?**  
 Please submit your timesheet at the end of each week. We can’t pay you unless you do. Your timesheet will be reviewed first thing on Monday morning, at which point that week's time is approved and can be invoiced.
 - **How often should I invoice?**  
