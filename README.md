@@ -1,5 +1,5 @@
 # TEN7 Contractor Quick Start Guide
-Version 1.1.12, published 03.30.2021
+Version 1.1.13, published 04.08.2021
 
 ## Welcome
 
@@ -16,7 +16,7 @@ You can learn more about who we are and what we do  [here](https://handbook.ten7
     *   Fill out a TEN7 independent contractor agreement and a W9 using Hellosign
     *   Set up Gusto, so we can pay you
     *   Fill out the Know Your Team ice breaker -- the team will learn about you, and vice versa
-    *   Log in to Slack, add your profile photo so we know who you are, and say hi! 👋🏻
+    *   Log in to Slack and add your profile photo and your personal pronouns in parentheses next to your "full name," so we know who you are. Then say hi! 👋🏻
 *   In the meantime, we will get you set up with... 
     *   An employee number
     *   Your new ten7.com email address 
