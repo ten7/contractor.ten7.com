@@ -7,10 +7,9 @@ Hello, and welcome! This is a quick start guide to contracting with TEN7.  Our g
 
 You can learn more about who we are and what we do  [here](https://handbook.ten7.com/020-who-we-are/) and about our company culture and values [here](https://handbook.ten7.com/030-our-culture/). 
 
+If you're looking for our Employee Handbook, you can find that [here](https://handbook.ten7.com/). 
 
 ## So we’d like to work with you, what’s next?
-
-
 
 *   First thing’s first: we’ll need to run a Goodhire background check. We’ll need your full name and email address to get started, and you’ll fill out the rest. You'll be asked to enter our official office location, so please use: Minneapolis, MN, 55403, Hennepin County. If all is clear 🤞, we will ask you to...
     *   Fill out a TEN7 independent contractor agreement and a W9 using Hellosign
