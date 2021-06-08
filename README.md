@@ -62,7 +62,7 @@ We use the Harvest app to track all time. Please track your time in real time, a
 - **How do I know which projects or tasks I should track time to?**  
 Your team lead will let you know which projects, tasks or categories you should be tracking time to. If you have questions about logging your time, ask Dani!
 - **Can I bill my local setup and switching time?**  
-It's perfectly reasonable for you to log your local setup time when you're working on a new project, and that time should be logged to the client project and is billable to TEN7. Any additional local switch, troubleshooting or other time is not billable to clients and therefore not billable to TEN7.  
+It's perfectly reasonable for you to log up to 1 hour of local setup time when you're working on a new project, and that time should be logged to the client project and is billable to TEN7. Any additional time spent switching setups locally, troubleshooting or other time is not billable to clients and therefore not billable to TEN7.  
 - **Will TEN7 cover my onboarding time?**  
 We know that when we start working together it'll take you a little time to get your machine set up with the various tools we use and get up to speed on all our    processes. TEN7 is happy to pay you for up to a full day (8 hours) of ramp-up time that you can log under the "Company Operations" project in Harvest.
 - **Will TEN7 cover the time I need to get vaccinated for COVID?** 
