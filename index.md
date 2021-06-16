@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  TEN7 Contractor Quick Start Guide
+title:  TEN7 Contractor - Quick Start Guide
 ---
 
-# Welcome
+# TEN7 Contractor - Quick Start Guide
 
 Hello, and welcome! This is a quick start guide to contracting with TEN7.  Our goal is to get you up and running quickly! And to anticipate and answer any questions you may have before getting started.
 

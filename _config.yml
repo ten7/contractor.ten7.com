@@ -1,14 +1,12 @@
 ###########
 # site.title
 
-title:    'TEN7 Contractor Quick Start Guide'
+title: 'TEN7 Contractor - Quick Start Guide'
 subtitle: 'Version 1.2.0, published 06.15.2021'
 
 
 nav:
-- title: 'Welcome'
-  url: '/'
-- title: 'Questions'
+- title: 'FAQ'
   subfolderitems:
     - page: 'Administrative'
       url: '/admin.html'
