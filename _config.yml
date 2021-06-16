@@ -1,14 +1,23 @@
 ###########
 # site.title
 
-title:    'TEN7 Jekyll Starter'
-subtitle: 'Here&rsquo;s a sub-title.'
+title:    'TEN7 Contractor Quick Start Guide'
+subtitle: 'Version 1.2.0, published 06.15.2021'
 
 
 nav:
-- { title: 'Home',              href: '/' }
-- { title: 'Our Mission',                href: 'https://ten7.com/mission' }
-
+- title: 'Welcome'
+  url: '/'
+- title: 'Questions'
+  subfolderitems:
+    - page: 'Administrative'
+      url: '/admin.html'
+    - page: 'Time Tracking and Payment'
+      url: '/time.html'
+    - page: 'Process'
+      url: '/process.html'
+    - page: 'Developer Specific'
+      url: '/developer.html'
 
 #########################
 # more settings
