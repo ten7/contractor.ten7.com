@@ -1,21 +1,20 @@
 ###########
 # site.title
 
-title: 'TEN7 Contractor - Quick Start Guide'
-subtitle: 'Version 1.2.0, published 06.15.2021'
+title: "Contractor's Quick Start Guide"
+subtitle: "Version 1.2.0, 06/15/21"
+
 
 
 nav:
-- title: 'FAQ'
-  subfolderitems:
-    - page: 'Administrative'
-      url: '/admin.html'
-    - page: 'Time Tracking and Payment'
-      url: '/time.html'
-    - page: 'Process'
-      url: '/process.html'
-    - page: 'Developer Specific'
-      url: '/developer.html'
+- title: "Administrative"
+  url: "/admin.html"
+- title: "Time Tracking and Payment"
+  url: "/time.html"
+- title: "Process"
+  url: "/process.html"
+- title: "Developer Specific"
+  url: "/developer.html"
 
 #########################
 # more settings
