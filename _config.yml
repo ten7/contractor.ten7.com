@@ -4,17 +4,19 @@
 title: "Contractor's Quick Start"
 subtitle: "Version 1.2.5, 06/21/21"
 
-
-
 nav:
-- title: "Administrative"
-  url: "/admin.html"
-- title: "Time Tracking and Payment"
-  url: "/time.html"
-- title: "Process"
-  url: "/process.html"
-- title: "Developer Specific"
-  url: "/developer.html"
+- title: "Contractor's Quick Start"
+  url: "/"
+- title: "FAQs"
+  subfolderitems:
+  - title: "Administrative"
+    url: "/admin.html"
+  - title: "Time Tracking and Payment"
+    url: "/time.html"
+  - title: "Process"
+    url: "/process.html"
+  - title: "Developer Specific"
+    url: "/developer.html"
 
 #########################
 # more settings

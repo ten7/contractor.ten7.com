@@ -3,7 +3,7 @@
 
   <div class="navbar-brand">
     <a class="navbar-item" href="/">
-      <img src="https://ten7.com/sites/default/files/2021-06/T7logo.svg" width="54" alt="Home" title="Home">{{ site.title }}
+      <img src="https://ten7.com/sites/default/files/2021-06/T7logo.svg" width="54" alt="Home" title="Home">
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar">
@@ -29,7 +29,7 @@
                 
         {% for entry in item.subfolderitems %}
           <a class="navbar-item" href="{{ entry.url }}">
-            {{ entry.page }}
+            {{ entry.title }}
           </a>
         {% endfor %}
 
