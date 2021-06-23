@@ -5,9 +5,9 @@ title: "Contractor's Quick Start"
 subtitle: "Version 1.2.6, 06/22/21"
 
 nav:
-- title: "Contractor's Quick Start"
+- title: "Home"
   url: "/"
-- title: "FAQs"
+- title: "Questions"
   subfolderitems:
   - title: "Administrative"
     url: "/admin.html"

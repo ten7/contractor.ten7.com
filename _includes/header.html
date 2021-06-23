@@ -16,6 +16,7 @@
   <div id="navbar" class="navbar-menu">
     <div class="navbar-end">
 
+
     {% for item in site.nav %}
       
       {% if item.subfolderitems %}
@@ -25,7 +26,7 @@
         <a class="navbar-link">
           {{ item.title }}
         </a>
-        <div class="navbar-dropdown">
+        <div class="navbar-dropdown is-right">
                 
         {% for entry in item.subfolderitems %}
           <a class="navbar-item" href="{{ entry.url }}">

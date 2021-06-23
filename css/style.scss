@@ -100,7 +100,7 @@ a:hover,a.navbar-item:hover {
   text-decoration: none;
 }
 
-.navbar-item {
+.navbar-item, .navbar-link {
   text-transform: uppercase;
   font-family: "ReplicaLLWeb-Bold";
   font-size: 13px;
@@ -112,11 +112,8 @@ a:hover,a.navbar-item:hover {
   color: $color-deepindigo;
 }
 
-a.navbar-item {
-  color:  $color-deepindigo;
-}
 
-a.navbar-item:hover {
+.navbar-item:hover, .navbar-link:hover {
   color:  $color-electricpurple;
   background-color: transparent;
 }
