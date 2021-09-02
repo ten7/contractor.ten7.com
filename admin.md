@@ -11,8 +11,6 @@ As a contractor, you won’t get any paid time off. If you need to take time off
 Once per quarter, we hold an all company meeting — sometimes virtual, sometimes in person. You're always welcome to join those meetings, and we encourage it! The one caveat is that we can't pay for your time to attend these meetings, since they are optional for you as a contractor. If you choose not to attend, we'll make sure to relay anything to you that's super important that may come out of them.
 - **Do I get any TEN7 issued hardware or software?**  
 Nope! ← simplest answer
-- **Do I get any special discounts anywhere?**  
-Yes, you have access to discounts from the Apple Store through TEN7, contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) or [@ivan](https://ten7.slack.com/team/U02FLV1A0) in Slack to get signed up.
 - **Do you have standups? Am I supposed to attend?**  
 Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too. Either way, we ask that you please post your priorities each day in our #standup Slack channel.
 - **Does TEN7 have a Brand and House Style Guide?**  
