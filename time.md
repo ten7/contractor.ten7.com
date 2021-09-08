@@ -20,7 +20,7 @@ We're so glad you asked! When you're able to get vaccinated, please take the tim
 - **How often do I submit my timesheet?**  
 Please submit your timesheet at the end of each week. We can’t pay you unless you do. Your timesheet will be reviewed first thing on Monday morning, at which point that week's time is approved and can be invoiced.
 - **How often should I invoice?**  
-You may use whatever cadence works best for you to invoice: semi-monthly, bi-weekly, weekly...just invoice us. You should invoice __at least__ monthly, but ideally bi-weekly. Please make sure that your timesheets are approved __before__ invoicing us.
+We ask that you invoice us on a monthly basis — on the 1st of every month for all time logged in the previous month. Please make sure that your timesheets are approved __before__ invoicing us.
 - **How do I invoice?**  
 Email your invoice to [billing@ten7.com](mailto:billing@ten7.com). No need to itemize things, a total is fine. We rely on approved (and locked) Harvest timesheets for details. Make sure each invoice only contains time spent during one month. If you are invoicing for work done in multiple months, please submit them as separate invoices (one for each month's work). Please include a copy of your approved Harvest timesheet as a PDF attachment for the time period you are invoicing. You can generate this PDF in Harvest by going to "Reports" > "Detailed Time" and running a report for the time period for which you're invoicing.
 ![How do I Invoice?](harvest-time-report.png)
