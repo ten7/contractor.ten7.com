@@ -24,6 +24,9 @@
 
 @import 'settings';
 @import '../../../node_modules/bulma/bulma.sass';
+@import 'components/header';
+@import 'components/footer';
+@import 'components/article';
 
 /* complete */
 
@@ -77,6 +80,7 @@
  */
 
 body {
+	background-color: #fbf7f3;
 	font-family: $font-family;
 	font-size: 1.2rem;
 }
@@ -95,55 +99,4 @@ a {
 		color: $link-hover;
 		text-decoration: none;
 	}
-}
-
-.navbar-item,
-.navbar-link {
-	color: $color-deepindigo;
-	font-family: 'ReplicaLLWeb-Bold';
-	font-size: 13px;
-	font-style: normal;
-	font-weight: 700;
-	letter-spacing: 0.1em;
-	line-height: 22px;
-	text-align: right;
-	text-transform: uppercase;
-}
-
-
-.navbar-item:hover,
-.navbar-link:hover {
-	background-color: transparent;
-	color: $color-electricpurple;
-}
-
-.content h1 {
-	color: $color-deepindigo;
-	font-family: 'FoundersGroteskWeb-Medium';
-	font-size: 36px;
-	font-style: normal;
-	font-weight: 600;
-	letter-spacing: 0;
-	line-height: 38px;
-	text-align: left;
-}
-
-.content h2 {
-	color: $color-deepindigo;
-	font-family: 'FoundersGroteskWeb-Medium';
-	font-size: 28px;
-	font-style: normal;
-	font-weight: 600;
-	letter-spacing: 0;
-	line-height: 30px;
-	text-align: left;
-}
-
-.content p,
-.content li {
-	font-family: 'FoundersGroteskTextWeb-Regular';
-}
-
-.footer {
-	background-color: $color-paper;
 }

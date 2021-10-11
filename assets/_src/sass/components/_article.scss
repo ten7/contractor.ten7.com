@@ -1,0 +1,32 @@
+.content {
+	background: #fff;
+	margin: 0 auto 2.5rem;
+	padding: 3.75rem;
+	
+	h1 {
+		color: $color-deepindigo;
+		font-family: 'FoundersGroteskWeb-Medium';
+		font-size: 36px;
+		font-style: normal;
+		font-weight: 600;
+		letter-spacing: 0;
+		line-height: 38px;
+		text-align: left;
+	}
+	
+	h2 {
+		color: $color-deepindigo;
+		font-family: 'FoundersGroteskWeb-Medium';
+		font-size: 28px;
+		font-style: normal;
+		font-weight: 600;
+		letter-spacing: 0;
+		line-height: 30px;
+		text-align: left;
+	}
+	
+	p,
+	li {
+		font-family: 'FoundersGroteskTextWeb-Regular';
+	}
+}
