@@ -28,6 +28,7 @@
 @import 'components/footer';
 @import 'components/article';
 @import 'components/navbar-item';
+@import 'components/navbar-subitem';
 @import 'components/pager';
 @import 'components/progress-bar';
 
@@ -55,22 +56,26 @@
 
 /* other fonts */
 @font-face {
-	font-family: 'FoundersGroteskWeb-Medium';
+	font-family: 'FoundersGroteskWeb';
+	font-weight: 400;
 	src: url('/assets/fonts/founders-grotesk-web-medium.woff') format('woff');
 }
 
 @font-face {
-	font-family: 'FoundersGroteskWeb-Medium';
+	font-family: 'FoundersGroteskWeb';
+	font-weight: 400;
 	src: url('/assets/fonts/founders-grotesk-web-medium.woff2') format('woff2');
 }
 
 @font-face {
-	font-family: 'FoundersGroteskTextWeb-Regular';
+	font-family: 'FoundersGroteskWeb';
+	font-weight: 300;
 	src: url('/assets/fonts/founders-grotesk-text-web-regular.woff') format('woff');
 }
 
 @font-face {
-	font-family: 'FoundersGroteskTextWeb-Regular';
+	font-family: 'FoundersGroteskWeb';
+	font-weight: 300;
 	src: url('/assets/fonts/founders-grotesk-text-web-regular.woff2') format('woff2');
 }
 
