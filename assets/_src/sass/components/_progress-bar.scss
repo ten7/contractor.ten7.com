@@ -1,0 +1,27 @@
+.progress-bar {
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	bottom: 0;
+	display: flex;
+	height: 0.5rem;
+	left: 0;
+	position: absolute;
+	right: 0;
+	
+	&-section {
+		background-color: #f4eee9;
+		flex: 1;
+	}
+	
+	&-section:first-child {
+		border-bottom-left-radius: 5px;
+	}
+	
+	&-section:last-child {
+		border-bottom-right-radius: 5px;
+	}
+	
+	.is-read {
+		background-color: #6330f4;
+	}
+}

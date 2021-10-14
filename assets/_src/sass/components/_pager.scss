@@ -1,0 +1,58 @@
+.pager {
+	display: flex;
+	justify-content: space-between;
+	margin: 3.25rem auto 5rem;
+	padding: 0;
+	
+	&-content {
+		display: flex;
+		flex-direction: column;
+	}
+	
+	&-link {
+		align-items: center;
+		background: #ece6ff;
+		border-radius: 5px;
+		color: #270066;
+		display: flex;
+		line-height: 1.1;
+		padding: 1.125rem 1.5rem;
+	}
+	
+	&-link:hover {
+		background: #270066;
+		color: #fff;
+	}
+	
+	&-link:hover path {
+		stroke: #fff;
+	}
+	
+	&-link:last-child {
+		align-self: flex-end;
+	}
+	
+	&-direction {
+		color: #1d0446;
+		font-size: 15px;
+		font-weight: 300;
+	}
+	
+	&-title {
+		color: #270066;
+		font-size: 22px;
+	}
+	
+	&-link:hover .pager-title,
+	&-link:hover .pager-direction {
+		color: #fff;
+	}
+	
+	&-arrow--left {
+		margin-right: 1.5rem;	
+	}
+	
+	&-arrow--right {
+		margin-left: 1.5rem;	
+	}
+}

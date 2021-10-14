@@ -26,14 +26,20 @@ nav:
     url: "/"
   - title: "Questions"
     subfolderitems:
-    - title: "Administrative"
-      url: "/admin.html"
-    - title: "Time Tracking and Payment"
-      url: "/time.html"
-    - title: "Process"
-      url: "/process.html"
-    - title: "Developer Specific"
-      url: "/developer.html"
+      show_numbers: true
+      items:
+        - title: "Administrative"
+          description: "A short description"
+          url: "/admin.html"
+        - title: "Time Tracking and Payment"
+          description: "A short description"
+          url: "/time.html"
+        - title: "Process"
+          description: "A short description"
+          url: "/process.html"
+        - title: "Developer Specific"
+          description: "A short description"
+          url: "/developer.html"
 
 # Build settings
 # theme: TBD
@@ -42,6 +48,10 @@ plugins:
   - jekyll-seo-tag
   
 markdown: kramdown
+
+collections:
+  pages:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

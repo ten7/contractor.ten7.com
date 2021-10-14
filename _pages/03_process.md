@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title:  Process Questions
+permalink: /process.html
 ---
-
-# Process Questions   
-
 
 - **How should I use my TEN7 calendar? How should I indicate times I am busy for others to see?**  
 We ask that you somehow connect your personal calendar with your TEN7 calendar. However you do this is up to you! You can either share your personal calendar but keep the events private, or you can manually add your personal calendar events to your TEN7 calendar. Our goal is to make sure we have your availability handy for meetings and project needs.

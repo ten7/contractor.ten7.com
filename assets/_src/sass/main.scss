@@ -27,34 +27,33 @@
 @import 'components/header';
 @import 'components/footer';
 @import 'components/article';
+@import 'components/navbar-item';
+@import 'components/pager';
+@import 'components/progress-bar';
 
 /* complete */
-
 @font-face {
 	font-family: 'ReplicaLLWeb-Bold';
-	src: url('ReplicaLLWeb-Bold.woff') format('woff');
+	src: url('/assets/fonts/ReplicaLLWeb-Bold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'ReplicaLLWeb-Bold';
-	src: url('ReplicaLLWeb-Bold.woff2') format('woff2');
+	src: url('/assets/fonts/ReplicaLLWeb-Bold.woff2') format('woff2');
 }
-
 
 /* subset */
-
 @font-face {
 	font-family: 'ReplicaLLSub-Bold';
-	src: url('ReplicaLLSub-Bold.woff') format('woff');
+	src: url('/assets/fonts/ReplicaLLSub-Bold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'ReplicaLLSub-Bold';
-	src: url('ReplicaLLSub-Bold.woff2') format('woff2');
+	src: url('/assets/fonts/ReplicaLLSub-Bold.woff2') format('woff2');
 }
 
 /* other fonts */
-
 @font-face {
 	font-family: 'FoundersGroteskWeb-Medium';
 	src: url('/assets/fonts/founders-grotesk-web-medium.woff') format('woff');
@@ -94,9 +93,12 @@ a {
 		text-decoration: none;
 	}
 
-	&:hover,
-	.navbar-item:hover {
+	&:hover {
 		color: $link-hover;
 		text-decoration: none;
 	}
+}
+
+.navbar-dropdown {
+	padding: 0;
 }

@@ -1,0 +1,46 @@
+.navbar-subitem {
+	border-bottom: 1px solid #f4eee9;
+	display: flex;
+	padding: 1rem;
+	
+	&:hover {
+		background-color: #270066;
+	}
+	
+	&:hover .navbar-subitem-icon {
+		background-color: #fff;
+		color: #270066;
+	}
+	
+	&:hover .navbar-subitem-title {
+		color: #fff;
+	}
+	
+	&:hover .navbar-subitem-description {
+		color: #fff;
+	}
+	
+	&-icon {
+		align-items: center;
+		background-color: #ece6ff;
+		border-radius: 52px;
+		color: #270066;
+		display: flex;
+		font-size: 1rem;
+		height: 29px;
+		justify-content: center;
+		margin-right: 0.5rem;
+		width: 29px;
+	}
+	
+	&-title {
+		color: #270066;
+		display: block;
+		font-size: 1.125rem;
+	}
+	
+	&-description {
+		color: #7f6b97;
+		font-size: 0.875rem;
+	}
+}

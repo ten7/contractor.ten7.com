@@ -1,14 +1,87 @@
 ---
 layout: default
 ---
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
+<section class="content column is-10">
+  <article class="post">
+  
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+  
+    <div class="post-content">
+      {{ content }}
+    </div>
+  
+  </article>
+  
+  <div class="progress-bar">
+    {% assign is_read = true %}
+    <!-- index page is always read -->
+    <div class="progress-bar-section is-read"></div>
+    {% for item in site.pages %}
+      {%- if item.url != '/' and item.url != '/404.html' and item.url != '/feed.xml' -%}
+        <div class="progress-bar-section {% if is_read %}is-read{% endif %}"></div>
+      {%- endif -%}
+      {%- if page.url == item.url -%}
+        {% assign is_read = false %}
+      {%- endif -%}
+    {% endfor %}
   </div>
+</section>
 
-</article>
+
+<div class="pager column is-10">
+  {% comment %} 
+    Previous / Next functions
+    Assign variables from the entire page collection
+  {% endcomment %}
+  
+  {% assign items_raw = site.pages %}
+  {% assign items = items_raw | reverse %}
+  
+  {% if items.size > 1 %}
+  {% comment %}
+    Store the index position of the matching items
+  {% endcomment %}
+  {% for item in items %}
+    {% if item.title == page.title %}
+      {% assign item_index = forloop.index %}
+    {% endif %}
+  {% endfor %}
+  
+  {% assign prev_index = item_index | plus: 1 %}
+  {% assign next_index = item_index | minus: 1 %}
+  
+  {% for item in items %}
+    {% if forloop.index == prev_index %}
+      {% assign prev = item %}
+    {% endif %}
+    {% if forloop.index == next_index %}
+      {% assign next = item %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if prev %}
+    <a href="{{ prev.url }}" class="pager-link" title="{{ prev.title }}">
+      <span class="pager-arrow pager-arrow--left">
+        <svg width="13" height="12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 5.813H1M5.813 10.625 1 5.812 5.813 1" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <span class="pager-content">
+        <span class="pager-direction">Back</span>
+        <strong class="pager-title">{{ prev.title }}<strong>
+      </span>
+    </a>
+  {% endif %}
+  {% if next %}
+    <a href="{{ next.url }}" class="pager-link" title="{{ next.title }}">
+      <span class="pager-content">
+        <span class="pager-direction">Next</span>
+        <strong class="pager-title">{{ next.title }}<strong>
+      </span>
+      <span class="pager-arrow pager-arrow--right">
+        <svg width="13" height="12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5.813h11M7.188 1 12 5.813l-4.813 4.812" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+    </a>
+  {% endif %}
+  {% endif %}
+</div>
