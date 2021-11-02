@@ -19,4 +19,21 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
   }
+
+  // Add click functionality to dropdown menu
+  const navbarItem = document.querySelectorAll('.navbar-item')[0];
+
+  document.addEventListener('click', (event) => {
+    const withinBoundries = event.composedPath().includes(navbarItem);
+
+    if (withinBoundries) {
+      // Toggle open menu
+      navbarItem.classList.toggle('is-active');
+    } else {
+      // Click anywhere to close
+      if (navbarItem.classList.contains('is-active')) {
+        navbarItem.classList.toggle('is-active');
+      }
+    }
+  });
 });
