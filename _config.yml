@@ -22,8 +22,6 @@ title: "Contractor's Quick Start"
 subtitle: "Version 1.2.15, 09/08/21"
 
 nav:
-  - title: "Home"
-    url: "/"
   - title: "Questions"
     subfolderitems:
       show_numbers: true
