@@ -51,4 +51,10 @@
 		display: flex;
 		margin-left: auto;
 	}
+
+	&bar-item.has-dropdown .navbar-link:hover,
+	&bar-item.has-dropdown .navbar-link:focus,
+	&bar-item.has-dropdown.is-active .navbar-link {
+		background-color: #fbf7f3;
+	}
 }

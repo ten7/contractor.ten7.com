@@ -1,34 +1,53 @@
-.navbar-dropdown {
-	width: 300px;
+.navbar-item .navbar-dropdown {
+	border: 0;
+	border-radius: 3px;
+	box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.08);
+	left: 12px;
+	width: 280px;
+}
+
+.navbar-item .navbar-link {
+	color: $color-mediumpurple;
+	font-family: $font-family;
+	font-size: 1.125rem;
+	font-weight: 500;
+
+	&::after {
+		border-color: $color-electricpurple;
+		border-radius: 0;
+		height: 0.525em;
+		top: 1.3em;
+		width: 0.525em;
+	}
 }
 
 .navbar-subitem {
 	border-bottom: 1px solid #f4eee9;
 	display: flex;
 	padding: 1rem;
-	
+
 	&:hover {
-		background-color: #270066;
+		background-color: $color-mediumpurple;
 	}
-	
+
 	&:hover .navbar-subitem-icon {
 		background-color: #fff;
-		color: #270066;
+		color: $color-mediumpurple;
 	}
-	
+
 	&:hover .navbar-subitem-title {
 		color: #fff;
 	}
-	
+
 	&:hover .navbar-subitem-description {
 		color: #fff;
 	}
-	
+
 	&-icon {
 		align-items: center;
 		background-color: #ece6ff;
 		border-radius: 52px;
-		color: #270066;
+		color: $color-mediumpurple;
 		display: flex;
 		flex-shrink: 0;
 		font-size: 1rem;
@@ -37,15 +56,15 @@
 		margin-right: 0.5rem;
 		width: 29px;
 	}
-	
+
 	&-title {
-		color: #270066;
+		color: $color-mediumpurple;
 		display: block;
 		font-size: 1.125rem;
 	}
-	
+
 	&-description {
-		color: #7f6b97;
+		color: $color-dustylavender;
 		font-size: 0.875rem;
 	}
 }
