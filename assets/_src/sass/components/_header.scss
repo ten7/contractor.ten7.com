@@ -4,14 +4,14 @@
 	position: sticky;
 	top: 0;
 	z-index: 2;
-	
+
 	&-container {
 		align-items: center;
 		display: flex;
 		margin: 0 auto;
 		padding: 0;
 	}
-	
+
 	&-brand-link {
 		background: #5f2fe1;
 		border-radius: 0 0 5px 5px;
@@ -20,7 +20,7 @@
 		padding: 1.25rem;
 		width: 10.375rem;
 	}
-	
+
 	&-brand-title {
 		color: #fff;
 		font-family: 'FoundersGroteskWeb';
@@ -29,10 +29,10 @@
 		font-weight: 600;
 		line-height: 1;
 	}
-	
+
 	&-item,
 	&-link {
-		color: $color-deepindigo;
+		color: $color-mediumpurple;
 		font-family: 'FoundersGroteskWeb';
 		font-size: 1.125rem;
 		font-style: normal;
@@ -40,15 +40,21 @@
 		text-align: right;
 		text-transform: uppercase;
 	}
-	
+
 	&-item:hover,
 	&-link:hover {
 		background-color: transparent;
 		color: $color-electricpurple;
 	}
-	
+
 	&-main {
 		display: flex;
 		margin-left: auto;
+	}
+
+	&bar-item.has-dropdown .navbar-link:hover,
+	&bar-item.has-dropdown .navbar-link:focus,
+	&bar-item.has-dropdown.is-active .navbar-link {
+		background-color: #fbf7f3;
 	}
 }
