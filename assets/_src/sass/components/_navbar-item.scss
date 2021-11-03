@@ -1,8 +1,9 @@
 .navbar-item .navbar-dropdown {
 	border: 0;
 	border-radius: 3px;
-	box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.08);
-	left: 12px;
+	box-shadow: 0 0 9px 1px rgb(0 0 0 / 8%);
+	left: -0.5em;
+	top: 3.5em;
 	width: 280px;
 }
 
@@ -67,4 +68,60 @@
 		color: $color-dustylavender;
 		font-size: 0.875rem;
 	}
+}
+
+
+@media screen and (max-width: 1024px) {
+	.navbar-menu.is-active {
+		display: block;
+		left: 0;
+		padding: 0;
+		position: absolute;
+		top: 8.2rem;
+		width: 100%;
+	}
+	
+	.navbar-subitem .navbar-subitem-description {
+		font-size: 1.5rem;
+	}
+
+	.navbar-subitem .navbar-subitem-title {
+		font-size: 2rem;
+	}
+
+	.navbar-subitem .navbar-subitem-content {
+		margin-left: 5px;
+	}
+
+	.navbar-subitem-icon {
+		align-items: center;
+		background-color: #ece6ff;
+		border-radius: 52px;
+		// box-align: center;
+		// box-pack: center;
+		color: #270066;
+		display: box;
+		display: flexbox;
+		display: flex;
+		// flex-align: center;
+		// flex-pack: center;
+		font-size: 1.5rem;
+		height: 50px;
+		justify-content: center;
+		margin-right: 0.5rem;
+		padding-bottom: 0.06rem;
+		width: 50px;
+	}
+
+	.navbar-item .navbar-dropdown {
+		width: 100%;
+	}
+
+	.navbar-subitem .navbar-subitem-icon {
+		font-size: 1.2rem;
+		height: 40px;
+		margin-top: 0.3rem;
+		width: 40px;
+	}
+
 }
