@@ -2,6 +2,7 @@
 layout: page
 title:  Developer Specific Questions
 permalink: /developer.html
+opener: Opener Text
 ---
 
 - **Where does the code live?**  

@@ -2,6 +2,7 @@
 layout: page
 title:  Time Tracking and Payment Questions
 permalink: /time.html
+opener: Opener Text
 ---
 
 - **Where do I track my time?**  
