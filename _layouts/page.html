@@ -38,57 +38,41 @@ layout: default
 
 
 <div class="pager column is-8">
-  {% comment %} 
-    Previous / Next functions
-    Assign variables from the entire page collection
-  {% endcomment %}
-  
-  {% assign items_raw = site.pages %}
-  {% assign items = items_raw | reverse %}
-  
-  {% if items.size > 1 %}
-  {% comment %}
-    Store the index position of the matching items
-  {% endcomment %}
-  {% for item in items %}
-    {% if item.title == page.title %}
-      {% assign item_index = forloop.index %}
-    {% endif %}
-  {% endfor %}
-  
-  {% assign prev_index = item_index | plus: 1 %}
-  {% assign next_index = item_index | minus: 1 %}
-  
-  {% for item in items %}
-    {% if forloop.index == prev_index %}
-      {% assign prev = item %}
-    {% endif %}
-    {% if forloop.index == next_index %}
-      {% assign next = item %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if prev %}
+    <div class="pager-previous">
+      {% if page.previous.title %}
     <a href="{{ prev.url }}" class="pager-link" title="{{ prev.title }}">
       <span class="pager-arrow pager-arrow--left">
         <svg width="13" height="12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 5.813H1M5.813 10.625 1 5.812 5.813 1" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </span>
       <span class="pager-content">
-        <span class="pager-direction">Back</span>
-        <strong class="pager-title">{{ prev.title }}<strong>
+        <span class="pager-direction">Back:</span>
+        <strong class="pager-title">{{ page.previous.title }}<strong>
       </span>
     </a>
   {% endif %}
-  {% if next %}
-    <a href="{{ next.url }}" class="pager-link" title="{{ next.title }}">
+    </div>
+  
+  {% if page.url == '/' %}
+    {% assign next_title = "Let's Dive In!" %}
+    {% assign next_url = site.pages.first.url %}
+  {% elsif page.next.title %}
+    {% assign next_title = page.next.title %}
+    {% assign next_url = page.next.url %}
+  {% endif %}
+
+  <div class="pager-next">
+    {% if next_title %}
+    <a href="{{ next_url }}" class="pager-link" title="{{ next_title }}">
       <span class="pager-content">
-        <span class="pager-direction">Next</span>
-        <strong class="pager-title">{{ next.title }}<strong>
+        <span class="pager-direction">Next:</span>
+        <strong class="pager-title">{{ next_title }}<strong>
       </span>
       <span class="pager-arrow pager-arrow--right">
         <svg width="13" height="12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5.813h11M7.188 1 12 5.813l-4.813 4.812" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </span>
     </a>
   {% endif %}
-  {% endif %}
+  </div>
+  
+
 </div>
