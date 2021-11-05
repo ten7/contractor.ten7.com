@@ -1,6 +1,5 @@
 .pager {
 	display: flex;
-	justify-content: space-between;
 	margin: 3.25rem auto 5rem;
 	padding: 0;
 
@@ -41,6 +40,7 @@
 	&-title {
 		color: $color-mediumpurple;
 		font-size: 22px;
+		letter-spacing: 0.7px;
 	}
 
 	&-link:hover .pager-title,
@@ -55,4 +55,12 @@
 	&-arrow--right {
 		margin-left: 1.5rem;
 	}
+}
+
+.pager-previous {
+	margin-right: auto;
+}
+
+.pager-next {
+	margin-left: auto;
 }
