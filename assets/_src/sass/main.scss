@@ -110,3 +110,23 @@ a {
 .navbar-dropdown {
 	padding: 0;
 }
+
+@media screen and (min-width: 1216px) {
+	.container:not(.is-max-desktop) {
+		max-width: none;
+	}
+	
+}
+
+@media screen and (min-width: 1024px) {
+	.container {
+		max-width: none;
+	}
+} 
+
+@media screen and (min-width: 1408px) {
+	.container:not(.is-max-desktop):not(.is-max-widescreen) {
+		max-width: 1344px;
+	}
+}
+	

@@ -52,3 +52,20 @@
 		font-size: 0.875rem;
 	}
 }
+
+.navbar-dropdown .navbar-subitem.is-active {
+	background-color: $color-electricpurple;
+
+	.navbar-subitem-description {
+		color: #fff;
+	}
+
+	.navbar-subitem-title {
+		color: #fff;
+	}
+
+	.navbar-subitem-icon {
+		background-color: #fff;
+		color: $color-electricpurple;
+	}
+}
