@@ -22,8 +22,6 @@ If you're looking for our Employee Handbook, you can find that [here](https://ha
     *   Your new ten7.com email address (please log in and set up 2FA within two weeks to avoid getting locked out of your new email account)
     *   Other accounts, such as: Jira, Asana, Notion, Slack, Harvest, 1Password, Gitlab, and more
     *   A DISC Assessment, which you can learn more about [here](https://www.discprofile.com/what-is-disc)
-        *   Third level bullet test.
-        *   Third level bullet test.
 
 ## We know you must have loads of questions! Here are some answers. 
 
