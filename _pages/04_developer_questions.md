@@ -1,9 +1,9 @@
 ---
-layout: default
-title:  Developer Specific Questions
+layout: page
+title:  Developer Specific
+permalink: /developer.html
+opener: Chapter 4 of 4
 ---
-
-# Developer Specific Questions
 
 - **Where does the code live?**  
 Most of the code you will work with will be in our own Gitlab server: gitlab.ten7.com, to which you can get access by asking for it in the `#developers` Slack channel. We have clients that host with Pantheon, Acquia and platform.sh, so each will have their own setup.

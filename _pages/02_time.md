@@ -1,11 +1,9 @@
 ---
-layout: default
-title:  Time Tracking and Payment Questions
+layout: page
+title:  Time Tracking and Payment
+permalink: /time.html
+opener: Chapter 2 of 4
 ---
-
-
-# Time Tracking and Payment Questions
-
 
 - **Where do I track my time?**  
 We use the Harvest app to track all time. Please track your time in real time, as you’re working on projects. Harvest has both desktop and mobile apps, and timers can also be started from tickets in Jira (for devs) as well as tasks in Asana (non-devs).

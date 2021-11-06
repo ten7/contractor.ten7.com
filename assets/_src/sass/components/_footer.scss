@@ -1,0 +1,40 @@
+.footer {
+	background: $color-darkpurple;
+	color: #fff;
+	font-size: 0.9375rem;
+	font-weight: normal;
+	line-height: 75%;
+	line-height: 110%;
+	padding: 2rem;
+	
+	a,
+	a:visited {
+		color: $color-coral;
+	}
+
+	a:hover {
+		color: $color-electricpurple;
+	}
+}
+
+.ten7-link {
+	align-items: center;
+	display: inline-flex;
+	
+	
+	.footer-logo {
+		margin-right: 0.5rem;
+		stroke: $color-coral;
+		stroke-linecap: round;
+		stroke-linejoin: round;
+		stroke-width: 2;
+	}
+
+	.footer-logo:hover {
+		stroke: $color-electricpurple;
+	}
+	
+	span {
+		color: #fff;
+	}
+}

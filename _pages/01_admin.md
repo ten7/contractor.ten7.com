@@ -1,9 +1,9 @@
 ---
-layout: default
-title:  Administrative Questions
+layout: page
+permalink: /admin.html
+title:  Administrative
+opener: Chapter 1 of 4
 ---
-
-# Administrative Questions
 
 - **Do I get any time off? When is TEN7 closed?**  
 As a contractor, you won’t get any paid time off. If you need to take time off, we ask that you give us as much notice as possible, so we can plan accordingly. TEN7 is closed every year on New Year’s Eve + Day, Memorial Day, Independence Day, Labor Day, Thanksgiving + Black Friday, and Christmas Eve + Day.

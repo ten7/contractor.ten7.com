@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title:  TEN7 Contractor's Quick Start
+opener: Introduction
 ---
-
-# TEN7 Contractor&rsquo;s Quick Start
 
 Hello, and welcome! This is a quick start guide to contracting with TEN7.  Our goal is to get you up and running quickly! And to anticipate and answer any questions you may have before getting started.
 
@@ -23,7 +22,6 @@ If you're looking for our Employee Handbook, you can find that [here](https://ha
     *   Your new ten7.com email address (please log in and set up 2FA within two weeks to avoid getting locked out of your new email account)
     *   Other accounts, such as: Jira, Asana, Notion, Slack, Harvest, 1Password, Gitlab, and more
     *   A DISC Assessment, which you can learn more about [here](https://www.discprofile.com/what-is-disc)
-
 
 ## We know you must have loads of questions! Here are some answers. 
 
