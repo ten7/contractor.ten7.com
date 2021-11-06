@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  TEN7 Contractor&rsquo;s Quick Start
+title:  TEN7 Contractor’s Quick Start
 opener: Introduction
 ---
 
