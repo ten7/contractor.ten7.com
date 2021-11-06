@@ -60,10 +60,12 @@
 	color: $color-electricpurple;
 	content: '•';
 	display: inline-block;
-	font-size: 2rem;
+	font-size: 1.7rem;
 	font-weight: bold;
+	left: 5px;
 	margin-bottom: -1em;
 	margin-left: -1em;
+	position: relative;
 	width: 1em;
 }
 
@@ -75,10 +77,13 @@ li > ul > li::before {
 	color: $color-electricpurple;
 	content: '◦';
 	display: inline-block;
-	font-size: 2rem;
+	font-size: 1.8rem;
 	font-weight: bold;
+	left: 5px;
 	margin-bottom: -1em;
 	margin-left: -1em;
+	position: relative;
+	top: 2px;
 	width: 1em;
 }
 
