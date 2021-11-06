@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Process Questions
+title:  Process
 permalink: /process.html
-opener: Opener Text
+opener: Chapter 3 of 4
 ---
 
 - **How should I use my TEN7 calendar? How should I indicate times I am busy for others to see?**  

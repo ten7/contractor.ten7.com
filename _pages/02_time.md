@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Time Tracking and Payment Questions
+title:  Time Tracking and Payment
 permalink: /time.html
-opener: Opener Text
+opener: Chapter 2 of 4
 ---
 
 - **Where do I track my time?**  

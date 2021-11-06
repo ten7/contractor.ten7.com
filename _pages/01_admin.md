@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /admin.html
-title:  Administrative Questions
-opener: Opener Text
+title:  Administrative
+opener: Chapter 1 of 4
 ---
 
 - **Do I get any time off? When is TEN7 closed?**  

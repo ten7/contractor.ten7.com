@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Developer Specific Questions
+title:  Developer Specific
 permalink: /developer.html
-opener: Opener Text
+opener: Chapter 4 of 4
 ---
 
 - **Where does the code live?**  
