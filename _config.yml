@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Contractor's Quick Start"
-subtitle: "Version 2.0.0, 11/06/21"
+subtitle: "Version 2.0.1, 11/06/21"
 
 nav:
   - title: "Start Here"
     subfolderitems:
       show_numbers: true
       items:
-        - title: "Administrative"
+        - title: "Admin"
           description: "Time off, brand guidelines, contact info"
           url: "/admin.html"
         - title: "Time Tracking and Payment"
