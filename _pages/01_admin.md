@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /admin.html
-title:  Administrative
+title:  Admin
 opener: Chapter 1 of 4
 ---
 
