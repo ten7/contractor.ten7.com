@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Contractor's Quick Start"
+title: "Contractor’s Quick Start"
 subtitle: "Version 2.0.1, 11/06/21"
 
 nav:
