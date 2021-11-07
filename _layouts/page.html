@@ -42,6 +42,12 @@ layout: default
 <div class="pager column is-8">
     
   {% if page.previous.title %}
+    {% assign prev_title = page.previous.title -%}
+  {% elsif page.url == site.pages.first.url %}
+    {% assign prev_title = site.pages.first.opener -%}
+  {% endif %}
+
+  {% if prev_title %}
   <div class="pager-previous">
     <a href="{{ page.previous.url }}" class="pager-link" title="{{ page.previous.title }}">
       <span class="pager-arrow pager-arrow--left">
@@ -49,12 +55,13 @@ layout: default
       </span>
       <span class="pager-prev-content">
         <span class="pager-direction">Back:</span>
-        <span class="pager-title">{{ page.previous.title }}</span>
+        <span class="pager-title">{{ prev_title }}</span>
       </span>
     </a>
   </div>
   {% endif %}
-  
+
+
   {% if page.url == '/' %}
     {% assign sub_title = "Let's Dive In:" %}
     {% assign main_title = site.pages.first.title %}
