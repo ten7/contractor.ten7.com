@@ -19,14 +19,16 @@ layout: default
   </article>
   
   <div class="progress-bar">
-    {%- if page.url == '/' %}
+    <div class="progress-bar-section is-read"></div>
+    
+    {%- if page.url == '/' -}
       {% assign is_read = false %}
     {% else %}
       {% assign is_read = true %}
     {% endif %}
-    
+      
     {% for item in site.pages %}
-      {%- if item.url != '/404.html' and item.url != '/feed.xml' -%}
+      {%- if item.url != '/' and item.url != '/404.html' and item.url != '/feed.xml' -%}
         <div class="progress-bar-section {% if is_read %}is-read{% endif %}"></div>
       {%- endif -%}
       {%- if page.url == item.url -%}
