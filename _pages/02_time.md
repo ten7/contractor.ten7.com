@@ -6,7 +6,7 @@ opener: Chapter 2 of 4
 ---
 
 - **Where do I track my time?**  
-We use the Harvest app to track all time. Please track your time in real time, as you’re working on projects. Harvest has both desktop and mobile apps, and timers can also be started from tickets in Jira (for devs) as well as tasks in Asana (non-devs).
+We use the Harvest app to track all time. Please track your time in real time, as you’re working on projects. Harvest has both desktop and mobile apps, and timers can also be started from tickets in Jira.
 - **How do I know which projects or tasks I should track time to?**  
 Your team lead will let you know which projects, tasks or categories you should be tracking time to. If you have questions about logging your time, ask Dani!
 - **Can I bill my local setup and switching time?**  
@@ -21,6 +21,6 @@ Please submit your timesheet at the end of each week. We can’t pay you unless 
 We ask that you invoice us on a monthly basis — on the 1st of every month for all time logged in the previous month. Your invoices should be dated as the last day of the previous month. For example, on 10/1, you will invoice for September, and the date on your invoice should be 9/30. Please make sure that your timesheets are approved __before__ invoicing us.
 - **How do I invoice?**  
 Email your invoice to [billing@ten7.com](mailto:billing@ten7.com). No need to itemize things, a total is fine. We rely on approved (and locked) Harvest timesheets for details. Make sure each invoice only contains time spent during one month. If you are invoicing for work done in multiple months, please submit them as separate invoices (one for each month's work). Please include a copy of your approved Harvest timesheet as a PDF attachment for the time period you are invoicing. You can generate this PDF in Harvest by going to "Reports" > "Detailed Time" and running a report for the time period for which you're invoicing.
-![How do I Invoice?](harvest-time-report.png)
+[![How do I Invoice?](harvest-time-report.png)](harvest-time-report.png)
 - **How and when do I get paid?**  
 Invoices are usually paid on receipt via direct deposit through Gusto. You'll see payment in your bank account within five business days. Don’t forget, you’re a 1099 contractor, so we **don't** withhold any taxes. You're responsible for applicable taxes in your jurisdiction.
