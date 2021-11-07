@@ -57,14 +57,14 @@ layout: default
   
   {% if page.url == '/' %}
     {% assign sub_title = "Let's Dive In:" %}
-    {% assign main_title = "Welcome" %}
+    {% assign main_title = site.pages.first.title %}
     {% assign next_url = site.pages.first.url %}
   {% elsif page.next.title %}
     {% assign sub_title = "Next:" %}
     {% assign main_title = page.next.title %}
     {% assign next_url = page.next.url %}
   {% endif %}
-
+  
   {% if main_title %}
   <div class="pager-next">
     <a href="{{ next_url }}" class="pager-link pager-link-next" title="{{ main_title }}">
