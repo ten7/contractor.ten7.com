@@ -17,9 +17,9 @@ Our mission is to [Make Things That Matter](https://ten7.com/mission) --- and if
     *   Log in to Slack and add your profile photo and your personal pronouns in parentheses next to your "full name," so we know who you are. Then say hi! 👋🏻
 *   In the meantime, we will get you set up with... 
     *   An employee number
-    *   Your new ten7.com email address (please log in and set up 2FA within two weeks to avoid getting locked out of your new email account)
-    *   Other accounts, such as: Jira, Asana, Notion, Slack, Harvest, 1Password, Gitlab, and more
-    *   A DISC Assessment, which you can learn more about [here](https://www.discprofile.com/what-is-disc)
+    *   Your new ten7.com email address. **Important:** please log in and set up two-factor authentication (2FA) in the first week of contracting to avoid getting locked out of your new email account.
+    *   Other accounts, such as: Jira, Notion, Slack, Harvest, 1Password, Git, and more
+    
 
 ## We know you must have loads of questions! We have answers.
 
