@@ -95,7 +95,7 @@
 			height: 3.25rem;
 			margin-bottom: 9px;
 			margin-left: auto;
-			margin-right: 1.7rem;
+			margin-right: 1.5rem;
 			position: relative;
 			width: 3.25rem;
 		}
@@ -128,6 +128,37 @@
 
 		&bar-burger.is-active span:nth-child(3) {
 			top: calc(50% + 6px);
+		}
+	}
+}
+
+@media screen and (max-width: 769px) {
+	.nav {	
+		&-brand-title {
+			font-size: 1.2rem;
+			white-space: nowrap;
+		}
+
+		&bar-burger {
+			margin-right: 1.4rem;
+		}
+
+		&bar-burger span {
+			height: 3px;
+			left: calc(50% - 21px);
+			width: 32px;
+		}
+
+		&bar-burger span:nth-child(1) {
+			top: calc(50% - 11px);
+		}
+
+		&bar-burger span:nth-child(2) {
+			top: calc(50% - 0px);
+		}
+
+		&bar-burger span:nth-child(3) {
+			top: calc(50% + 11px);
 		}
 	}
 }

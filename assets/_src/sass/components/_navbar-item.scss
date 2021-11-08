@@ -111,6 +111,7 @@
 	}
 
 	.navbar-item .navbar-dropdown {
+		border-radius: 0 0 5px 5px;
 		width: 100%;
 	}
 
@@ -124,6 +125,6 @@
 
 @media screen and (max-width: 769px) {
 	.navbar-menu.is-active {
-		top: 6.53rem;
+		top: 6.6rem;
 	}
 }
