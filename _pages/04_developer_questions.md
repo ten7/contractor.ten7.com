@@ -3,6 +3,9 @@ layout: page
 title:  Developer Specific
 permalink: /developer.html
 opener: Chapter 4 of 4
+# Footer cards title control
+# back_title:
+# next_title:
 ---
 
 - **Do you have standups? Am I supposed to attend?**  

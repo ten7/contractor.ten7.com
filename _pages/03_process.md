@@ -3,6 +3,9 @@ layout: page
 title:  Process
 permalink: /process.html
 opener: Chapter 3 of 4
+# Footer cards title control
+# back_title:
+# next_title: 
 ---
 
 - **How should I use my TEN7 calendar? How should I indicate times I am busy for others to see?**  

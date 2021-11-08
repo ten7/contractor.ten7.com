@@ -3,6 +3,9 @@ layout: page
 title:  Time Tracking and Payment
 permalink: /time.html
 opener: Chapter 2 of 4
+# Footer cards title control
+# back_title:
+# next_title: 
 ---
 
 - **Where do I track my time?**  
