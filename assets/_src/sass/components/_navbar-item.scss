@@ -2,7 +2,7 @@
 	border: 0;
 	border-radius: 5px;
 	box-shadow: 0 0 9px 1px rgb(0 0 0 / 8%);
-	left: -0.5em;
+	left: -10.3em;
 	overflow: hidden;
 	top: 3.5em;
 	width: 280px;
@@ -78,7 +78,7 @@
 		left: 0;
 		padding: 0;
 		position: absolute;
-		top: 5.5rem;
+		top: 6.28rem;
 		width: 100%;
 	}
 	
@@ -98,14 +98,10 @@
 		align-items: center;
 		background-color: #ece6ff;
 		border-radius: 52px;
-		// box-align: center;
-		// box-pack: center;
 		color: #270066;
 		display: box;
 		display: flexbox;
 		display: flex;
-		// flex-align: center;
-		// flex-pack: center;
 		font-size: 1.5rem;
 		height: 50px;
 		justify-content: center;
@@ -124,9 +120,10 @@
 		margin-top: 0.3rem;
 		width: 40px;
 	}
+}
 
-	.nav-brand-logo svg {
-		width: 111px;
+@media screen and (max-width: 769px) {
+	.navbar-menu.is-active {
+		top: 6.53rem;
 	}
-
 }

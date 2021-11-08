@@ -82,9 +82,12 @@
 /*
  * css styles go here
  */
+html {
+	background-color: $color-darkpurple;
+}
 
 body {
-	background-color: #fbf7f3;
+	background-color: $color-paper;
 	color: $color-darkpurple;
 	font-family: $font-family;
 	font-size: 1.4rem;

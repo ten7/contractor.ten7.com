@@ -3,6 +3,7 @@ layout: page
 permalink: /admin.html
 title:  Admin
 opener: Chapter 1 of 4
+back_title: Introduction
 ---
 
 - **Do I get any time off? When is TEN7 closed?**  
