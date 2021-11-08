@@ -40,11 +40,13 @@ layout: default
 
 
 <div class="pager column is-8">
-    
-  {% if page.previous.title %}
+
+  {% if page.back_title %}
+    {% assign prev_title = page.back_title %}
+  {% elsif page.previous.title %}
     {% assign prev_title = page.previous.title -%}
-  {% elsif page.url == site.pages.first.url %}
-    {% assign prev_title = site.pages.first.opener -%}
+  {% elsif page.url != '/' %}
+    {% assign prev_title = "Home" %}
   {% endif %}
 
   {% if prev_title %}
@@ -64,20 +66,23 @@ layout: default
 
   {% if page.url == '/' %}
     {% assign sub_title = "Let's Dive In:" %}
-    {% assign main_title = site.pages.first.title %}
+    {% assign next_title = site.pages.first.title %}
     {% assign next_url = site.pages.first.url %}
+  {% elsif page.next_title %}
+    {% assign sub_title = "Next:" %}
+    {% assign next_title = page.next_title %}
   {% elsif page.next.title %}
     {% assign sub_title = "Next:" %}
-    {% assign main_title = page.next.title %}
+    {% assign next_title = page.next.title %}
     {% assign next_url = page.next.url %}
   {% endif %}
   
-  {% if main_title %}
+  {% if next_title %}
   <div class="pager-next">
-    <a href="{{ next_url }}" class="pager-link pager-link-next" title="{{ main_title }}">
+    <a href="{{ next_url }}" class="pager-link pager-link-next" title="{{ next_title }}">
       <span class="pager-next-content">
         <span class="pager-direction">{{ sub_title}}</span>
-        <span class="pager-title">{{ main_title }}</span>
+        <span class="pager-title">{{ next_title }}</span>
       </span>
       <span class="pager-arrow pager-arrow--right">
         <svg width="15" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5.813h11M7.188 1 12 5.813l-4.813 4.812" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
