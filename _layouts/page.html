@@ -71,6 +71,7 @@ layout: default
   {% elsif page.next_title %}
     {% assign sub_title = "Next:" %}
     {% assign next_title = page.next_title %}
+    {% assign next_url = page.next.url %}
   {% elsif page.next.title %}
     {% assign sub_title = "Next:" %}
     {% assign next_title = page.next.title %}
