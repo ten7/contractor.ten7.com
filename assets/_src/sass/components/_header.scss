@@ -82,20 +82,26 @@
 			padding: 1.5rem 1.25rem 1.25rem;
 		}
 
+		&-brand-title {
+			white-space: nowrap;
+		}
+
 		&-container {
-			background: #5f2fe1;
+			background: $color-electricpurple;
 		}		
 
 		&bar-burger {
 			color: #fff;
-			// cursor: pointer;
-			// display: block;
 			height: 3.25rem;
 			margin-bottom: 9px;
 			margin-left: auto;
 			margin-right: 1.7rem;
 			position: relative;
 			width: 3.25rem;
+		}
+
+		&bar-burger:hover {
+			background-color: $color-electricpurple;
 		}
 
 		&bar-burger span:nth-child(1) {
@@ -116,11 +122,11 @@
 			width: 42px;
 		}
 
-		.navbar-burger.is-active span:nth-child(1) {
+		&bar-burger.is-active span:nth-child(1) {
 			top: calc(50% - 5px);
 		}
 
-		.navbar-burger.is-active span:nth-child(3) {
+		&bar-burger.is-active span:nth-child(3) {
 			top: calc(50% + 6px);
 		}
 	}

@@ -21,7 +21,6 @@
 	align-items: center;
 	display: inline-flex;
 	
-	
 	.footer-logo {
 		margin-right: 0.5rem;
 		stroke: $color-coral;
@@ -30,11 +29,15 @@
 		stroke-width: 2;
 	}
 
-	.footer-logo:hover {
-		stroke: $color-electricpurple;
+	.footer-logo-text {
+		color: $color-coral;
+	}
+
+	&:hover > a {
+		color: $color-electricpurple;
 	}
 	
-	span {
-		color: #fff;
+	&:hover > svg {
+		stroke: $color-electricpurple;
 	}
 }
