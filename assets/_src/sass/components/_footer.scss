@@ -9,11 +9,12 @@
 	
 	a,
 	a:visited {
-		color: $color-coral;
+		color: $link-color-footer;
 	}
 
 	a:hover {
-		color: $color-electricpurple;
+		color: $link-footer-hover;
+		text-decoration: underline;
 	}
 }
 
@@ -23,21 +24,13 @@
 	
 	.footer-logo {
 		margin-right: 0.5rem;
-		stroke: $color-coral;
+		stroke: $link-color-footer;
 		stroke-linecap: round;
 		stroke-linejoin: round;
 		stroke-width: 2;
 	}
 
 	.footer-logo-text {
-		color: $color-coral;
-	}
-
-	&:hover > a {
-		color: $color-electricpurple;
-	}
-	
-	&:hover > svg {
-		stroke: $color-electricpurple;
+		color: $link-color-footer;
 	}
 }
