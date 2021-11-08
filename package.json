@@ -1,7 +1,7 @@
 {
   "name": "TEN7",
-  "version": "1.0.0",
-  "description": "Contractor information site",
+  "version": "2.0.0",
+  "description": "TEN7 Contractor’s Quick Start",
   "browserslist": [
     "> 1%",
     "last 2 versions",
@@ -57,7 +57,7 @@
     "url": "https://github.com/ten7/contractor.ten7.com.git"
   },
   "author": "TEN7",
-  "license": "MIT",
+  "license": "GPL 3",
   "bugs": {
     "url": "https://github.com/ten7/contractor.ten7.com/issues"
   },
