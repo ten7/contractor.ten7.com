@@ -4,7 +4,7 @@ permalink: /admin.html
 title:  Admin
 opener: Chapter 1 of 4
 # Footer cards title control
-back_title: Introduction
+back_title: Intro
 # next_title: 
 ---
 

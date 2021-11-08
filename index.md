@@ -4,7 +4,7 @@ title:  TEN7 Contractor’s Quick Start
 opener: Introduction
 ---
 
-Hello, and welcome! This is a quick start guide to contracting with [TEN7](https://ten7.com/).  Our goal is to get you up and running quickly and to anticipate (and answer) any questions you have before getting started.
+Hello, and welcome! This is a guide to contracting with [TEN7](https://ten7.com/).  Our goal is to get you up and running quickly and to answer any questions you have before getting started on the team.
 
 Our mission is to [Make Things That Matter](https://ten7.com/mission) --- and if you happen to be looking for our official Employee Handbook, that’s over at [handbook.ten7.com](https://handbook.ten7.com/). 
 
