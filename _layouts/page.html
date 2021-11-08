@@ -42,16 +42,28 @@ layout: default
 <div class="pager column is-8">
 
   {% if page.back_title %}
-    {% assign prev_title = page.back_title %}
+    {% assign prev_title = page.back_title -%}
   {% elsif page.previous.title %}
     {% assign prev_title = page.previous.title -%}
-  {% elsif page.url != '/' %}
-    {% assign prev_title = "Home" %}
+  {% endif %}
+
+  {% assign prev_url = page.previous.url %}
+
+  {% if page.url == site.pages.first.url %}
+
+    {% if page.back_title %}
+      {% assign prev_title = page.back_title %}
+    {% else %}
+      {% assign prev_title = "Home" -%}
+    {% endif %}
+
+    {% assign prev_url = '/' %}
+
   {% endif %}
 
   {% if prev_title %}
   <div class="pager-previous">
-    <a href="{{ page.previous.url }}" class="pager-link" title="{{ page.previous.title }}">
+    <a href="{{ prev_url }}" class="pager-link" title="{{ page.previous.title }}">
       <span class="pager-arrow pager-arrow--left">
         <svg width="15" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 5.813H1M5.813 10.625 1 5.812 5.813 1" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </span>
