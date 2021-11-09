@@ -3,6 +3,15 @@
 	margin: 2.5rem auto 6rem;
 	padding: 0;
 
+	@include until($tablet) {
+		margin: 2.8rem auto 3rem;
+	}
+
+	@include until($mobile) {
+		flex-direction: column;
+		margin: 1rem 0;
+	}
+
 	&-next-content {
 		display: flex;
 		flex-direction: column;
@@ -23,6 +32,10 @@
 		height: 100%;
 		line-height: 1.1;
 		padding: 1.125rem 1.5rem;
+
+		@include until($mobile) {
+			border-radius: 0;
+		}
 	}
 
 	&-link:hover {
@@ -45,6 +58,10 @@
 		font-size: 22px;
 		font-weight: 500;
 		letter-spacing: 0.7px;
+
+		@include until($mobile) {
+			font-size: 20px;
+		}
 	}
 
 	&-link:hover .pager-title,
@@ -52,50 +69,48 @@
 		color: #fff;
 	}
 
+	&-previous {
+		flex-basis: 40%;
+		margin-right: auto;
+		
+		@include until($tablet) {
+			flex-basis: 48%;
+			margin-right: auto;
+		}
+
+		@include until($mobile) {
+			margin: 1rem 0 2rem;
+			width: 100%;
+		}
+	}
+	
+	&-next {
+		flex-basis: 40%;
+		margin-left: auto;
+
+		@include until($tablet) {
+			flex-basis: 48%;
+			margin-left: auto;
+		}
+
+		@include until($mobile) {
+			margin: 0 0 2rem;
+			width: 100%;
+		}
+	}
+
 	&-arrow--left {
 		align-self: center;
 		margin-right: 0.2rem;
+
+		@include until($tablet) {
+			margin-right: 0;
+		}
 	}
 
 	&-arrow--right {
 		align-self: center;
 		margin-left: auto;
 		padding-left: 1rem;
-	}
-}
-
-.pager-previous {
-	flex-basis: 40%;
-	margin-right: auto;
-}
-
-.pager-next {
-	flex-basis: 40%;
-	margin-left: auto;
-}
-
-@media screen and (max-width: 1024px) {
-	.pager {
-		margin: 0.5rem auto 2rem;
-	}
-}
-
-@media screen and (max-width: 769px) {
-	.pager {
-		margin: 2rem auto 2.5rem;
-
-		&-previous {
-			flex-basis: 48%;
-			margin-right: auto;
-		}
-		
-		&-next {
-			flex-basis: 48%;
-			margin-left: auto;
-		}
-	
-		&-arrow--left {
-			margin-right: 0;
-		}
 	}
 }
