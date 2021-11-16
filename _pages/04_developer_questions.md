@@ -9,7 +9,7 @@ opener: Chapter 4 of 4
 ---
 
 - **Do you have standups? Am I supposed to attend?**  
-Standups happen daily, at 9:30am CT. If you can attend, great! If not, that’s ok too. Either way, we ask that you please post your priorities each day in our `#standup` Slack channel.
+Standups are scheduled per project at the discretion of the Project Manager. You are expected to attend them if you're assigned to the project. We also ask that you please post your priorities each day in our `#standup` Slack channel.
 - **Where is all the code?**  
 Most of the code you will work with will be in our own Git server, to which you can get access by asking for it in the `#developers` Slack channel. We have clients that host with Pantheon, Acquia and platform.sh, so each will have their own setup.
 - **How do I make changes to code?**  
