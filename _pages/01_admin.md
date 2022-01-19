@@ -12,6 +12,8 @@ back_title: Intro
 As a contractor, you won’t get any paid time off. If you need to take time off, we ask that you give us as much notice as possible, so we can plan accordingly. You can reference the [TEN7 Handbook](https://handbook.ten7.com/ourbenefits.html) for specific holiday closures. 
 - **Should I attend All Company Meetings?**  
 Once per quarter, we hold an all company meeting — sometimes virtual, sometimes in person. You're always welcome to join those meetings, and we encourage it! The one caveat is that we can't pay for your time to attend these meetings, since they are optional for you as a contractor. If you choose not to attend, we'll make sure to relay anything to you that's super important that may come out of them. (We also record these meetings, so you could watch them after they happen, too.)
+- **TEN7 Lunches**  
+From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, we ask that you please limit your lunch spend to no more than $35. 
 - **Do I get any TEN7 issued hardware or software?**  
 Nope! ← simplest answer
 - **Does TEN7 have Brand Guidelines?**  
