@@ -25,6 +25,6 @@ Yes! But, please do not forward your email from your TEN7 account to any other e
 - **Can I connect my personal apps with TEN7 apps?**  
 We ask that you please keep all TEN7 tools and their contents separate from any personal tools you might use. Please avoid using your personal email inbox for TEN7 purposes or connecting any personal tools with those of TEN7.     
 - **What are the expectations around using Slack with clients?**  
-All client-facing channels include `#t7care_` , so please be mindful of what you post in those channels. Although, don’t be too wary; we trust you to post in those channels when you need something from a client. 
+All client-facing channels include `#ten7-support` , so please be mindful of what you post in those channels. Although, don’t be too wary; we trust you to post in those channels when you need something from a client. 
 - **What kind of project or ticket management system do you use?**  
 For the most part, we use [Jira](https://teamten7.atlassian.net/) for technical work and [Notion](https://ten7.notion.site/) for everything else. We have a ticketing system in Jira, so that tickets can be assigned to you and you can change the status as you work on something. Someone will walk you through how to use Jira in more detail, before you start. 
