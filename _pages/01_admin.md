@@ -25,6 +25,5 @@ The rule of thumb is that "TEN7" should always be written in CAPS with NO space 
     *   Email us: [hi@ten7.com](mailto:hi@ten7.com)
     *   Send us a postcard: TEN7, 9450 SW Gemini Dr #85756, Beaverton OR 97008-7105
     *   Visit our website: [ten7.com](https://ten7.com/)
-    *   Follow us on Twitter: [twitter.com/TEN7](https://twitter.com/TEN7)
     *   Listen to our podcast: [ten7.com/podcast](https://ten7.com/podcast)
 
