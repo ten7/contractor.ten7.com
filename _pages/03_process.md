@@ -17,7 +17,7 @@ We wrote a blog post on TEN7's tech stack, including a handy visual of our tools
 - **How should I communicate my availability?**  
 Please communicate your availability with your project team.
 - **What hours should I keep?**  
-This is up to you! But we prefer that you’re somewhat reachable during regular business hours which are Monday to Friday, 9am to 5pm CST. 
+This is up to you! But we prefer that you’re somewhat reachable during our canonical time zome of CST. We're also a flexible company and work to accommodate each other's schedules across time zones.
 - **Do I need to use my TEN7 email address?**  
 Only if you are communicating directly with clients. If we do set one up for you, please do not forward your email from your TEN7 account to any other email address. Always do TEN7’s business with TEN7’s email address. (You probably won’t send or receive a great deal of email, we’re mostly in Slack all day long.) Be sure to add your Google profile photo when you first log in.
 - **Can I connect my personal apps with TEN7 apps?**  
