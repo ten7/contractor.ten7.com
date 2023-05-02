@@ -17,8 +17,8 @@ Our mission is to [Make Things That Matter](https://ten7.com/mission) --- and if
     *   Log in to Slack and add your profile photo and your personal pronouns in parentheses next to your "full name," so we know who you are. Then say hi! 👋🏻
 *   In the meantime, we will get you set up with... 
     *   An employee number
-    *   Your new ten7.com email address. **Important:** please log in and set up two-factor authentication (2FA) in the first week of contracting to avoid getting locked out of your new email account.
-    *   Other accounts, such as: Jira, Notion, Slack, Harvest, 1Password, Git, and more
+    *   Your new ten7.com email address if you'll be working directly with clients. **Important:** please log in and set up two-factor authentication (2FA) in the first week of contracting to avoid getting locked out of your new email account.
+    *   Other accounts, such as: Jira, Notion, Slack, 1Password, Git, and more
     
 
 ## We know you must have loads of questions! We have answers.
